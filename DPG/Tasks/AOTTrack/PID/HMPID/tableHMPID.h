@@ -78,4 +78,4 @@ DECLARE_SOA_TABLE(HMPID_analysis, "AOD", "HMPIDANALYSIS",
                   variables_table::TPCNSigmaPr, variables_table::TOFNSigmaPr, variables_table::TPCNSigmaDe, variables_table::TOFNSigmaDe);
 } // namespace o2::aod
 
-#endif //DPG_TASKS_AOTTRACK_PID_HMPID_TABLEHMPID_H_
+#endif // DPG_TASKS_AOTTRACK_PID_HMPID_TABLEHMPID_H_
